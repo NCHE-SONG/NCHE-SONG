@@ -56,9 +56,6 @@
     <a href="#">
       <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge" />
     </a>    
-    <a href="#">
-      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat-square&logo=Azure%20DevOps&logoColor=white" alt="Azure DevOps Badge" />
-    </a>
   </div>
   
 </br>
